@@ -1,0 +1,14 @@
+{
+  "name": "playwright-debug",
+  "version": "1.0.0",
+  "description": "Playwright debug",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2",
+    "@types/jest": "^29.5.3"
+  }
+}
